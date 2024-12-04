@@ -3,7 +3,7 @@ import './App.css';
 import ALLTODOS from './comp/ALLTODOS';
 import { Link, Route, Routes } from 'react-router-dom'
 import { useState,useContext } from "react"
-
+consol.log("ללא קונפליקט")
 ////
 //add
 import React, { Suspense } from 'react';
