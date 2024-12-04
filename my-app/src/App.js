@@ -6,6 +6,7 @@ import { useState,useContext } from "react"
 
 ////
 //add
+consol.log("fff")
 import React, { Suspense } from 'react';
 import Name from './comp/cont/name';
 import Ps from './comp/cont/ps';
