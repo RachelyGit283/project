@@ -21,7 +21,7 @@ const LazyHome = React.lazy(()=>import('./comp/Home'))
 const LazyLogin = React.lazy(()=>import('./comp/Login'))
 const Lazybooks = React.lazy(()=>import('./comp/Books'))
 const LazybooksId = React.lazy(()=>import('./comp/booksId'))
-consol.log("fff")
+//
 // const LazyAllTasks = React.lazy(()=>import('./Components/AllTasks'))
 // const LazyNewTask = React.lazy(()=>import('./Components/NewTask'))
 // const LazyTaskById = React.lazy(()=>import('./Components/TaskById'))
